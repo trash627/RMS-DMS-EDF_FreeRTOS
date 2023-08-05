@@ -11,4 +11,4 @@ Use the provided macros in scheduler.h for using RMS, DMS, and EDF scheduling po
 
 This code was written for use on Arduino MEGA, implement the task sets in the Arduino IDE, then compile and upload the sketches (Arduino IDE would compile the FreeRTOS files as well).
 
-Example .ino file is provided for using the scheduling policies.
+An example task set is provided for testing the scheduling policies (place the example.ino file in the Arduino IDE sketches folder).
